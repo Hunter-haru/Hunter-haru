@@ -3,7 +3,7 @@
   <a href="https://github.com/Hunter-haru/Hunter-haru/">
     <img src="https://komarev.com/ghpvc/?username=Hunter-haru" alt="Hunter-haru" />
   </a>
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/Potapr_Eharu">
     <img height="20" src="https://img.shields.io/twitter/follow/Potapr_Eharu?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Hunter-haru">
